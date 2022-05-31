@@ -1,0 +1,13 @@
+.row{
+    display: flex;
+}
+.row div{
+    padding: 10px;
+    border: solid 1px #babaeb;
+    width: 80px;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

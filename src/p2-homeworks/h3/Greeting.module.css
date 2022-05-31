@@ -1,0 +1,28 @@
+.btn {
+    background-color: #babaeb;
+    color: #393939;
+    font-size: 12px;
+    padding: 10px 20px;
+    border: solid 1px transparent;
+    margin: 0px 10px;
+    border-radius: 5px;
+}
+.input{
+    padding: 10px;
+    border-radius: 5px;
+    border-color: #babaeb;
+}
+.input:focus{
+    outline: none;
+}
+.btn:hover{
+    background-color: #fff;
+    border:solid 1px #babaeb;
+    cursor: pointer;
+}
+.error {
+    border: 1px solid red;
+}
+.success{
+    border: 1px solid green;
+}

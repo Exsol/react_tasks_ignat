@@ -1,0 +1,45 @@
+.default {
+    background: #babaeb;
+    color:#333;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin: 10px;
+    border: solid 2px transparent;
+    font-weight: bold;
+}
+.default:disabled{
+    background: gray;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    font-weight: bold;
+    font-weight: bold;
+    padding: 10px 20px;
+}
+
+.default:hover{
+    cursor: pointer;
+    border: solid 2px #babaeb;
+    color:#babaeb;
+    background: #fff;
+}
+.default:disabled:hover{
+    background: gray;
+    border: solid 2px transparent;
+    color: #333;
+    cursor: not-allowed;
+}
+.red {
+    background: rosybrown;
+    padding: 10px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: solid 2px transparent;
+}
+.red:hover{
+    cursor: pointer;
+    border: solid 2px rosybrown;
+    color: rosybrown;
+    background: #fff;
+}
