@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_tasks_ignat/static/css/main.6380bb24.chunk.css",
+    "main.js": "/react_tasks_ignat/static/js/main.7e9c4038.chunk.js",
+    "main.js.map": "/react_tasks_ignat/static/js/main.7e9c4038.chunk.js.map",
+    "runtime-main.js": "/react_tasks_ignat/static/js/runtime-main.b5767824.js",
+    "runtime-main.js.map": "/react_tasks_ignat/static/js/runtime-main.b5767824.js.map",
+    "static/js/2.464289bf.chunk.js": "/react_tasks_ignat/static/js/2.464289bf.chunk.js",
+    "static/js/2.464289bf.chunk.js.map": "/react_tasks_ignat/static/js/2.464289bf.chunk.js.map",
+    "index.html": "/react_tasks_ignat/index.html",
+    "precache-manifest.539ab7038eb66a9e62f9d3b037b4dc80.js": "/react_tasks_ignat/precache-manifest.539ab7038eb66a9e62f9d3b037b4dc80.js",
+    "service-worker.js": "/react_tasks_ignat/service-worker.js",
+    "static/css/main.6380bb24.chunk.css.map": "/react_tasks_ignat/static/css/main.6380bb24.chunk.css.map",
+    "static/js/2.464289bf.chunk.js.LICENSE.txt": "/react_tasks_ignat/static/js/2.464289bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5767824.js",
+    "static/js/2.464289bf.chunk.js",
+    "static/css/main.6380bb24.chunk.css",
+    "static/js/main.7e9c4038.chunk.js"
+  ]
+}
