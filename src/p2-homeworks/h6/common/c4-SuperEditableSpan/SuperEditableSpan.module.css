@@ -1,0 +1,11 @@
+.editable:before{
+    content: "";
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    background-image: url('edit.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+

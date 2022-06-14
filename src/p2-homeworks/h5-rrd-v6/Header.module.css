@@ -1,0 +1,28 @@
+.menu a{
+    text-decoration: none;
+    margin: 0 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.activeLink{
+    color:#fff;
+    border:solid 1px transparent;
+    background: #babaeb;
+}
+.defaultLink{
+    color:#babaeb;
+    border:solid 1px #babaeb;
+    background: white;
+}
+.defaultLink:hover{
+    color:#fff;
+    border:solid 1px transparent;
+    background: #babaeb;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    height: 50px;
+    width: 350px;
+}
